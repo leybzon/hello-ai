@@ -1,6 +1,6 @@
 # Generative AI Starter Scripts
 
-Welcome to the Generative AI Starter Scripts repository! This repository contains a collection of scripts designed to help beginners get started with Generative AI projects. These scripts aim to provide a solid foundation and practical examples to overcome the initial hurdle of starting from scratch.
+The Generative AI Starter Scripts repository contains a collection of scripts designed to help beginners get started with Generative AI projects. These scripts aim to provide a solid foundation and practical examples to overcome the initial hurdle of starting from scratch.
 
 ## About
 
@@ -20,6 +20,7 @@ To get started, clone this repository and explore the scripts provided. Each scr
 
 ```bash
 git clone https://github.com/yourusername/generative-ai-starter-scripts.git
+```
 
 ## Usage
 
